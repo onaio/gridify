@@ -19,7 +19,7 @@ Example:
 
 node country-gridify.js ne-50m_adm0.geojson KEN 50
 
-This will generate a clipped [50KM grid of Kenya]() in geojson.
+This will generate a clipped [50KM grid of Kenya](https://github.com/onaio/gridify/blob/main/KEN-50km.geojson) in geojson.
 
 
 
